@@ -1,39 +1,52 @@
-> **Building tools that extend what AI can understand, remember, create, and accomplish.**
+# Alexandre Agostini
 
-I explore the systems *around* AI agents - context, memory, knowledge, tools, workflows, verification - so they become capable collaborators instead of confident guessers.
+I build the tools around AI agents: what they understand, what they remember, what they do, and what they can prove.
 
-## Four things agents need
-
-**🧠 Understand** - structured, grounded knowledge instead of whatever's in the weights.
-`RAG` `provenance` `structured data`
-
-**🗂️ Remember** - context that survives the session, the project, the agent.
-`persistent context` `state` `Git-backed workflows`
-
-**🤖 Act** - the tooling that lets an agent actually get things done.
-`orchestration` `MCP` `automation`
-
-**🔍 Verify** - measure what happened, don't trust the summary.
-`validation` `observability` `deterministic checks`
+<a href="https://github.com/AlexAgo83?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg"><img src="assets/projects-light.svg" alt="logics-manager, cdx-manager, electrical-plan-editor, meshanvil, deepvault, city-jump and 19 more repositories" width="574"></picture></a>
 
 ## Projects
 
-<img src="https://raw.githubusercontent.com/AlexAgo83/cdx-manager/main/docs/assets/icon.png" width="20" align="top"> **[cdx-manager](https://github.com/AlexAgo83/cdx-manager)** - orchestration for AI coding agents: isolated environments, sessions, quotas, context handoffs, machine-readable output.
-`One workflow → Multiple agents → Shared context`
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/AlexAgo83/cdx-manager"><img src="assets/shots/cdx-manager.png" alt="cdx-manager status board in a terminal"></a><br>
+<img src="assets/icons/cdx-manager.png" width="22" align="top" alt=""> <b><a href="https://github.com/AlexAgo83/cdx-manager">cdx-manager</a></b><br>
+One terminal for every agent account: sessions, quotas and context handoffs.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/AlexAgo83/logics-manager"><img src="assets/shots/logics-manager.png" alt="logics-manager viewer board"></a><br>
+<img src="assets/icons/logics-manager.png" width="22" align="top" alt=""> <b><a href="https://github.com/AlexAgo83/logics-manager">logics-manager</a></b><br>
+Persistent context and traceable workflows, from idea to verified task.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/AlexAgo83/electrical-plan-editor"><img src="assets/shots/electrical-plan-editor.png" alt="e-Plan Editor network summary"></a><br>
+<img src="assets/icons/electrical-plan-editor.png" width="22" align="top" alt=""> <b><a href="https://github.com/AlexAgo83/electrical-plan-editor">electrical-plan-editor</a></b><br>
+Design, validate and export electrical plans from a local-first workspace.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/AlexAgo83/meshanvil"><img src="assets/shots/meshanvil.png" alt="meshanvil node editor with render inspections"></a><br>
+<img src="assets/icons/meshanvil.png" width="22" align="top" alt=""> <b><a href="https://github.com/AlexAgo83/meshanvil">meshanvil</a></b><br>
+Lets AI operate 3D applications, with evidence of what actually happened.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/AlexAgo83/deepvault"><img src="assets/shots/deepvault.png" alt="deepvault Explorer with a source-backed summary"></a><br>
+<img src="assets/icons/deepvault.svg" width="22" align="top" alt=""> <b><a href="https://github.com/AlexAgo83/deepvault">deepvault</a></b><br>
+Governed knowledge sources for AI, with provenance and permissions kept.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/AlexAgo83/city-jump"><img src="assets/shots/city-jump.jpg" alt="City Jump at dusk"></a><br>
+<img src="assets/icons/city-jump.png" width="22" align="top" alt=""> <b><a href="https://github.com/AlexAgo83/city-jump">city-jump</a></b><br>
+A browser 3D city builder grown from one playable road graph. Just for fun.
+</td>
+</tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/AlexAgo83/logics-manager/main/clients/shared-web/media/icon.png" width="20" align="top"> **[logics-manager](https://github.com/AlexAgo83/logics-manager)** - persistent context and structured workflows for AI-assisted development. A local-first runtime turning ideas into traceable work.
-`Context → Plan → Task → Implementation → Verification`
+## How it fits together
 
-<img src="https://raw.githubusercontent.com/AlexAgo83/electrical-plan-editor/main/public/icons/icon-192.png" width="20" align="top"> **[electrical-plan-editor](https://github.com/AlexAgo83/electrical-plan-editor)** - local-first workspace for designing, validating and exporting electrical plans.
-`Complex domain → Structured model → Validation → Output`
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/loop-dark.svg"><img src="assets/loop-light.svg" alt="Understand, Remember, Act, Verify, and back to Understand: what is verified becomes knowledge." width="830"></picture>
 
-<img src="https://raw.githubusercontent.com/AlexAgo83/meshanvil/main/docs/img/icon.png" width="20" align="top"> **[meshanvil](https://github.com/AlexAgo83/meshanvil)** - lets AI operate on 3D applications while producing measurable evidence of what actually happened.
-`Operate → Measure → Prove`
-
-<img src="https://raw.githubusercontent.com/AlexAgo83/deepvault/main/public/icon.svg" width="20" align="top"> **[deepvault](https://github.com/AlexAgo83/deepvault)** - governed knowledge sources for AI, with provenance, permissions and evidence preserved.
-`Knowledge → Retrieval → Reasoning → Evidence`
-
-<img src="https://raw.githubusercontent.com/AlexAgo83/day-captain/main/docs/assets/day-captain-logo.png" width="20" align="top"> **[day-captain](https://github.com/AlexAgo83/day-captain)** - Microsoft 365 mail and calendar turned into actionable daily intelligence.
-`Deterministic where it matters → Intelligent where it helps`
-
-<p align="center"><i>Building the tools that make AI better at building things.</i></p>
+<p align="center"><sub>Building the tools that make AI better at building things.</sub></p>
