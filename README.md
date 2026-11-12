@@ -1,5 +1,3 @@
-# Alexandre Agostini
-
 I build the tools around AI agents: what they understand, what they remember, what they do, and what they can prove.
 
 <a href="https://github.com/AlexAgo83?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg"><img src="assets/projects-light.svg" alt="logics-manager, cdx-manager, electrical-plan-editor, meshanvil, deepvault, city-jump and 19 more repositories" width="574"></picture></a>
