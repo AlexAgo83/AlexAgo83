@@ -1,6 +1,6 @@
 I build the tools around AI agents: what they understand, what they remember, what they do, and what they can prove.
 
-<a href="https://github.com/AlexAgo83?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg"><img src="assets/projects-light.svg" alt="logics-manager, cdx-manager, electrical-plan-editor, meshanvil, deepvault, city-jump and 12 more repositories" width="574"></picture></a>
+<a href="https://github.com/AlexAgo83?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg"><img src="assets/projects-light.svg" alt="logics-manager, cdx-manager, electrical-plan-editor, meshanvil, strainworks, city-jump and 12 more repositories" width="574"></picture></a>
 
 ## Projects
 
@@ -31,9 +31,9 @@ Lets AI operate 3D applications, with evidence of what actually happened.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/AlexAgo83/deepvault"><img src="assets/shots/deepvault.png" alt="deepvault Explorer with a source-backed summary"></a><br>
-<img src="assets/icons/deepvault.svg" width="22" align="top" alt=""> <b><a href="https://github.com/AlexAgo83/deepvault">deepvault</a></b><br>
-Governed knowledge sources for AI, with provenance and permissions kept.
+<a href="https://github.com/AlexAgo83/strainworks"><img src="assets/shots/strainworks.jpg" alt="A Strainworks factory in 3D, its lines feeding the core"></a><br>
+<img src="assets/icons/strainworks.png" width="22" align="top" alt=""> <b><a href="https://github.com/AlexAgo83/strainworks">strainworks</a></b><br>
+A living factory crossed with tower defense, in the browser and on the phone. <a href="https://strainworks.onrender.com">Play it</a>.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/AlexAgo83/city-jump"><img src="assets/shots/city-jump.jpg" alt="City Jump at dusk"></a><br>
